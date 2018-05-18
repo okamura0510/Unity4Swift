@@ -1,0 +1,12 @@
+/*
+
+!/Assets
+!/ProjectSettings
+!.gitignore
+!Unity4Swift.unitypackage
+!LICENSE
+!README.md
+
+.DS_Store
+*.DS_Store
+*~
